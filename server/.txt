@@ -1,0 +1,2 @@
+mongoDB Socket IO expressJs yordamida kichik chat backend server qilib kursatiladi. 
+Funktsiyalari: Get All Users, Get All ChatRooms, Get single Chatroom, Send Message.

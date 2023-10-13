@@ -1,0 +1,7 @@
+###
+GET http://localhost:3000/rooms
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjUyOTA0YjA1OWY4MDU5MjY0ZTFmNWFmIn0sImlhdCI6MTY5NzIxNjcwMSwiZXhwIjoxNjk3MzAzMTAxfQ.EHiQcaT-mPDkvKh6elC364Ib7DY9YuJ0-6hQ6EDndI0
+
+###
+GET http://localhost:3000/chat/652904b059f8059264e1f5b2
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjUyOTA0YjA1OWY4MDU5MjY0ZTFmNWFmIn0sImlhdCI6MTY5NzIxNjcwMSwiZXhwIjoxNjk3MzAzMTAxfQ.EHiQcaT-mPDkvKh6elC364Ib7DY9YuJ0-6hQ6EDndI0

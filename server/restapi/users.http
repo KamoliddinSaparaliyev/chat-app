@@ -1,0 +1,27 @@
+
+###
+POST  http://localhost:3000/login
+Content-Type: application/json
+
+{
+  "username": "user1",
+  "password": "password123"
+}
+
+
+###
+POST http://localhost:3000/register
+Content-Type: application/json
+
+{
+  "first_name": "Leo",
+  "last_name": "Messi",
+  "username": "messi",
+  "password": "1234"
+}
+
+###
+GET http://localhost:3000/me
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjUyODIzNTkxMjg4YTE1ZTY0YWQwYjYwIn0sImlhdCI6MTY5NzE3OTU1NiwiZXhwIjoxNjk3MjY1OTU2fQ.3xBQ8OVBpEJn8icAuaIIbh_R0MOt3cuUDATN37bxjVM
+
+
