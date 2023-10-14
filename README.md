@@ -10,9 +10,9 @@ Please note that this repository is incomplete and intended for development and 
 
 - [x] Create and join chat rooms.
 - [x] Real-time messaging with Socket.IO.
-- [ ] User authentication (partially implemented).
-- [ ] Database storage for messages and chat rooms.
-- [ ] User profiles.
+- [x] User authentication (partially implemented).
+- [x] Database storage for messages and chat rooms.
+- [x] User profiles.
 
 ## Installation
 
