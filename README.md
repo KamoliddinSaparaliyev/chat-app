@@ -42,11 +42,11 @@ Please note that this repository is incomplete and intended for development and 
    npm run seed
    ```
 
-5.Start the sever:
+5. Start the sever:
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 ### Client
 
