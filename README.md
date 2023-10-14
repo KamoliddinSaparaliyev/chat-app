@@ -44,7 +44,7 @@ Please note that this repository is incomplete and intended for development and 
 
 ### Client
 
-1. Clone the repository for the clent:
+1. Navigate to the client directory:
 
    ```bash
    cd ./client
