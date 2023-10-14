@@ -30,17 +30,23 @@ Please note that this repository is incomplete and intended for development and 
    cd ./server
    ```
 
-3. Seed:
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Seed:
 
    ```bash
    npm run seed
    ```
 
-4. Install dependencies:
+5.Start the sever:
 
-   ```bash
-   npm run dev
-   ```
+    ```bash
+    npm run dev
+    ```
 
 ### Client
 
@@ -51,6 +57,12 @@ Please note that this repository is incomplete and intended for development and 
    ```
 
 2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Install dependencies:
 
    ```bash
    npm run dev
